@@ -1,4 +1,7 @@
 body {
   background-color: pink;
   font-size: 24px;
+  color: white;
+  font-weight: bolder;
+  text-shadow: -1px 1px black;
 }
