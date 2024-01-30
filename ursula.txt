@@ -1,2 +1,8 @@
+<<<<<<< HEAD
 välkommen till textfil 'ursula.txt' här diskuterar vi tv-serier, senaste tv-serien jag sett är the untamed. hej hej !!!
 Mela säger: En bra låt är Enjoy the silence - Depeche Mode.
+=======
+Hello Hello!!välkommen till textfil 'ursula.txt' här diskuterar vi tv-serier, senaste 
+tv-serien jag sett är the untamed.
+hej hej !!!  Jag igen
+>>>>>>> 87d610e6db406a3dde757ce4218791524d9f64c7
