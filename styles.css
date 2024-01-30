@@ -2,3 +2,11 @@ body {
   background-color: pink;
   font-size: 24px;
 }
+
+h2 {
+  color: blueviolet;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+main {
+  height: 100vh;
+}
